@@ -4,3 +4,4 @@ getsentry/relay:24.6.0
 getsentry/symbolicator:24.6.0
 getsentry/vroom:24.6.0
 ghcr.io/maxmind/geoipupdate:v6.1.0
+altinity/clickhouse-server:23.8.11.29.altinitystable
