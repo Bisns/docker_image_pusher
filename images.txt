@@ -13,3 +13,4 @@ altinity/clickhouse-server:23.8.11.29.altinitystable
 ghcr.io/maxmind/geoipupdate:v6.1.0
 nginx:1.25.4-alpine
 curlimages/curl:7.77.0
+busybox:latest
