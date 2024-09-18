@@ -1,8 +1,8 @@
-getsentry/sentry:24.6.0
-getsentry/snuba:24.6.0
-getsentry/relay:24.6.0
-getsentry/symbolicator:24.6.0
-getsentry/vroom:24.6.0
+getsentry/sentry:24.9.0
+getsentry/snuba:24.9.0
+getsentry/relay:24.9.0
+getsentry/symbolicator:24.9.0
+getsentry/vroom:24.9.0
 tianon/exim4
 memcached:1.6.26-alpine
 redis:6.2.14-alpine
@@ -14,4 +14,3 @@ ghcr.io/maxmind/geoipupdate:v6.1.0
 nginx:1.25.4-alpine
 curlimages/curl:7.77.0
 busybox:latest
-yipengfei/movie-robot:latest
